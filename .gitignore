@@ -1,0 +1,6 @@
+*.ipynb_checkpoints
+.DS_Store
+python/ben/submissions/
+data/sample_submission.csv
+data/test.csv
+data/train.csv
