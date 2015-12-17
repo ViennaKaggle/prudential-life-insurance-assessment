@@ -1,0 +1,2 @@
+You can download the data from https://www.kaggle.com/c/prudential-life-insurance-assessment/data
+Please don't copy it into the repo due to copyright issues!
